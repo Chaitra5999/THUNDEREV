@@ -1,0 +1,15 @@
+{
+  "name": "thunderev",
+  "version": "1.0.0",
+  "description": "Thunderboltz is a robust web application developed using React, Node.js, Express.js, and MongoDB. \r It encompasses a secure REST API hosted on the Render platform, ensuring reliable performance and scalability.\r This application showcases current market trends in the Electric Vehicle industry. \r With a user-friendly interface, it provides clear and concise information on key vehicle features, pricing, and contact details",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
